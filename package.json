@@ -1,0 +1,19 @@
+{
+  "name": "orru-francesca-hs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrahOrru/Orru-Francesca-HS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrahOrru/Orru-Francesca-HS/issues"
+  },
+  "homepage": "https://github.com/FrahOrru/Orru-Francesca-HS#readme"
+}
