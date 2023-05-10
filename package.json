@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FrahOrru/Orru-Francesca-HS/issues"
   },
-  "homepage": "https://github.com/FrahOrru/Orru-Francesca-HS#readme"
+  "homepage": "https://github.com/FrahOrru/Orru-Francesca-HS#readme",
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
 }
